@@ -2,9 +2,10 @@ import React from "react";
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Redirect
+  Route
 } from "react-router-dom";
+
+// React-Redux
 import { connect } from "react-redux";
 
 // Components
